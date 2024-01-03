@@ -3,14 +3,6 @@ body {
     color: white;
 }
 
-.border {
-    border: 2px solid red;
-}
-
-.flex {
-    display: flex;
-}
-
 .left {
     width: 25vw;
 }
