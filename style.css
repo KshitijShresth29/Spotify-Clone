@@ -1,6 +1,6 @@
 body {
-    background-color: black;
-    color: white;
+    /* background-color: purple;
+    color: white; */
 }
 
 .left {
@@ -9,4 +9,12 @@ body {
 
 .right {
     width: 75vw;
+}
+
+.home ul li {
+    list-style: none;
+    width: 34px;
+    display: flex;
+    gap: 11px;
+
 }
