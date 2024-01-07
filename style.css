@@ -1,20 +1,25 @@
 body {
-    /* background-color: purple;
+    /* background-color: black;
     color: white; */
 }
 
 .left {
     width: 25vw;
+    padding: 10px;
 }
 
 .right {
     width: 75vw;
 }
+.home{
+    padding: 10px;
+}
 
 .home ul li {
     list-style: none;
-    width: 34px;
+    width: 14px;
     display: flex;
-    gap: 11px;
+    gap: 15px;
+    padding-top: 14px;
 
 }
