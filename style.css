@@ -46,3 +46,13 @@ body {
 .heading img{
     width: 20px;
 }
+
+.footer{
+    display: flex;
+    font-size: 10px;
+    color: grey;
+    gap: 13px;
+}
+.footer a{
+    color: grey;
+}
