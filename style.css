@@ -6,8 +6,8 @@
     font-family: 'Roboto', sans-serif;
 }
 body {
-    /* background-color: black;
-    color: white; */
+     background-color: black;
+    color: white; 
 }
 
 .left {
@@ -46,13 +46,18 @@ body {
 .heading img{
     width: 20px;
 }
-
 .footer{
     display: flex;
     font-size: 10px;
     color: grey;
     gap: 13px;
+    position: absolute;
+    bottom: 0;
 }
 .footer a{
     color: grey;
+}
+.library{
+    min-height: 80vh;
+    position: relative;
 }
